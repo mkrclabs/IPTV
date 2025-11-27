@@ -1,0 +1,245 @@
+#EXTM3U
+#EXTINF:-1,ARY DigitalAsia HD
+http://103.147.87.50:8001/play/a02o/index.m3u8
+#EXTINF:-1,ARY Digital 
+http://212.32.241.201:8000/play/a01q
+#EXTINF:-1,ARY Digital HD 
+http://175.107.244.52:4456/play/a051/index.m3u8
+#EXTINF:-1,GREEN ENT
+http://175.107.244.52:4456/play/a06g/index.m3u8
+#EXTINF:-1,Geo Kahani
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-2,GreenTV 
+http://103.76.111.180:7780/play/a001
+#EXTINF:-1,Aaj Entertainment
+http://175.107.244.52:4456/play/a02z/index.m3u8
+#EXTINF:-1,AAJ ENT 
+http://116.90.120.149:8000/play/a00g/index.m3u8
+#EXTINF:-1,ptv_home
+http://103.76.111.180:7780/play/a056
+#EXTINF:-1,Express Entertainment
+http://175.107.244.52:4456/play/a038/index.m3u8
+#EXTINF:-1,A Plus
+http://175.107.244.52:4456/play/a04k/index.m3u8
+#EXTINF:-1,A Plus
+http://175.107.244.52:4456/play/a04k/index.m3u8
+#EXTINF:-1,HUM SITARAY
+http://66.102.120.18:8000/play/a05i
+#EXTINF:-1,aur LifeHD
+http://124.109.47.101/hls/stream1.m3u8
+#EXTINF:-1,PTV HOME HD 
+http://66.102.120.18:8000/play/a04r
+#EXTINF:-1,Hum sitaray
+http://66.102.120.18:8000/play/a05i
+#EXTINF:-1,HUM EUROPE 
+http://212.32.241.201:8000/play/a04i
+
+
+#EXTINF:-1,HUM NEWS HD
+http://66.102.120.18:8000/play/a05e
+#EXTINF:-1,92NewsHD
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+#EXTINF:-1,ABNNews.pk
+http://116.90.120.149:8000/play/a01r/index.m3u8
+#EXTINF:-1,EXPRESS NEWS
+http://66.102.120.18:8000/play/a053
+#EXTINF:Lahore News
+http://103.147.87.50:8001/play/a01w/index.m3u8
+#EXTINF:-1,DunyaNews
+https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
+#EXTINF:-1,Geo News
+https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
+#EXTINF:-1,LahoreNews
+https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
+#EXTINF:SUNO NEWS HD
+http://103.147.87.50:8001/play/a01q/index.m3u8
+#EXTINF:-1,PTVSports
+https://tvsen5.aynaott.com/Ptvsports/index.m3u8
+#EXTINF:-1,SamaaTV
+http://116.90.120.149:8000/play/a01g/index.m3u8
+#EXTINF:-1,AAJ NEWS
+http://66.102.120.18:8000/play/a05a
+#EXTINF:-1,PTV National Pakistan
+http://61.5.131.218:8000/play/a09s
+#EXTINF:-1,PTV NEWS HD
+http://66.102.120.18:8000/play/a04s
+#EXTINF:-1,PTV NEWS HD
+http://175.107.244.52:4456/play/a040/index.m3u8
+#EXTINF:-1,Public News
+http://103.147.87.50:8001/play/a02n/index.m3u8
+#EXTINF:-1,365 NEWS
+http://115.42.65.142:8000/play/a02a/index.m3u8
+#EXTINF:-1,BBC World News HD 
+#EXTINF:-1,SAMAA tv
+http://115.42.65.142:8000/play/a02j/index.m3u8
+#EXTINF:-1,7 News HD
+http://103.76.111.180:7780/play/a01y
+
+#EXTINF:-1, SPORTS HD
+http://51.154.17.178/play/a03m
+#EXTINF:-1,PTV SPORTS HD
+http://175.107.244.52:4456/play/a042/index.m3u8
+#EXTINF:-100,PTV-FEED
+http://103.250.28.66:8000/play/a02b/index.m3u8
+#EXTINF:-1,Bein Sports Xtra (Geo)
+https://bein-xtra-xumo.amagi.tv/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/master.m3u8
+#EXTINF:-1,PTV-SPORTS-HD
+http://66.102.120.18:8000/play/a04w/index.m3u8
+#EXTINF:-1,BBC Entertainment
+http://51.154.17.178/play/a04f
+#EXTINF:-1,PTV-SPORTS-HD
+http://115.42.65.142:8000/play/a036/index.m3u8
+#EXTINF:-1,GEO SUPER
+http://175.107.244.52:4456/play/a06z/index.m3u8
+#EXTINF:-1,Fox Sports 2 HD 
+http://190.104.67.191:234/play/a09b/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://181.78.109.48:9998/play/a060/index.m3u8
+#EXTINF:-1,TEN SPORTS
+http://103.66.149.193:8004/play/a05n/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://181.78.109.48:9998/play/a060/index.m3u8
+#EXTINF:-1,Sky_Sports_Cricket
+http://58.65.205.171:8000/play/a077
+#EXTINF:-1,SONY SPORTS TEN 2 
+http://175.107.244.52:4455/play/a0fy/index.m3u8
+#EXTINF:-1,GEO SUPER
+http://-1, Sky_Sports_Cricket
+http://58.65.205.171:8000/play/a077
+#EXTINF:-1,A Sports
+http://103.76.111.180:7780/play/a06j
+#EXTINF:-1, ESPN 3 HD
+http://181.78.109.48:9998/play/a060/index.m3u8
+
+
+
+
+#EXTINF:-1,9X Jalwa
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
+#EXTINF:-1,9X M
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8
+#EXTINF:-1,Sony Movies HD 
+http://45.171.64.30:8800/play/a04w
+#EXTINF:-1,Sony HD 
+http://190.104.67.170:234/play/a09c/index.m3u8
+#EXTINF:-1,SONY HD 
+http://45.175.64.244:4000/play/a0cc
+
+#EXTINF:-1,BBC News 
+http://45.181.120.65:9087/play/a0fs/index.m3u8
+#EXTINF:-1,CNN International
+http://38.250.115.22:8000/play/a0a0
+#EXTINF:-1,FOX_News
+http://58.65.205.171:8000/play/a06p
+#EXTINF:-1,24 News 
+http://110.39.27.47:8000/play/a02c/index.m3u8
+#EXTINF:-Sky_News Badal
+http://58.65.205.171:8000/play/a07f
+#EXTINF:Euronews English
+http://83.228.75.166:8000/play/a0ci
+#EXTINF:-1,BBC News
+http://168.228.44.241:9998/play/a026/index.m3u8
+#EXTINF:Public News
+http://103.147.87.50:8001/play/a02n/index.m3u8
+#EXTINF:-1,365 NEWS
+http://115.42.65.142:8000/play/a02a/index.m3u8
+#EXTINF:-1,365 NEWS
+http://66.102.120.18:8000/play/a039
+#EXTINF:-1,8XM HD
+http://115.42.65.142:8000/play/a02k/index.m3u8
+
+#EXTINF:-1,ABCNewsLive
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1  Education",CGTN Documentary
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-documentary.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL DE
+http://179.1.24.58:8000/play/a00f
+#EXTINF:-1,Animal Planet
+http://181.78.109.48:9998/play/a04m/index.m3u8
+#EXTINF:-1,Reng Documentary
+http://212.126.106.218:31000/play/a05n
+#EXTINF:-1,711 UNIVERSAL PREMIERE HD
+#EXTINF:-1,Studio Universal
+http://38.44.109.41:8003/play/a03e/index.m3u8
+#EXTINF:-1, RT Documentary HD
+http://192.166.145.10:8010/play/a074/index.m3u8
+#EXTINF:-1,Wild Earth
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991628
+
+#EXTINF:-1,Discovery Home & Health 
+http://45.171.64.30:6060/play/a040/index.m3u8
+#EXTINF:-1,Lion WWE SkySports 
+http://203.128.11.165:8000/play/a08e
+#EXTINF:-1,Xumo Free Nature And Wildlife TV
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951218
+#EXTINF:-1,Naturevision
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991197
+#EXTINF:-1,Animal Planet 
+http://181.78.109.48:9998/play/a04m/index.m3u8
+#EXTINF:-1,MBC ACTION 
+http://102.132.18.42:8000/play/a03s/index.m3u8
+#EXTINF:-1,42 MTV Hits Europe 
+http://190.97.183.98:8000/play/a051
+#EXTINF:-1,Nick Music
+http://38.250.115.22:8000/play/a09b
+#EXTINF:38,Cartoon Network
+http://45.171.64.30:6060/play/a01h/index.m3u8
+
+#EXTINF:-1,HBO Plus HD
+http://190.60.40.34:8001/play/a04c
+#EXTINF:-1,HBO Family 
+http://190.60.40.34:8001/play/a030
+#EXTINF:-1,HBO Family HD
+http://45.171.64.30:6060/play/a00k/index.m3u8
+#EXTINF:-1,TCM
+http://181.78.109.48:9998/play/a03w/index.m3u8
+#EXTINF:-1, movie HD
+http://179.1.145.73:8040/play/a03i
+#EXTINF:-1,Movie Kingdom
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/movie-kingdom/master.m3u8
+#EXTINF:-1,Hallmark Movies and More
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
+#EXTINF:-1,Are We There Yet?
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991667
+#EXTINF:-1,Fear Factor
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951130
+#EXTINF:-1,High NBC3
+https://hls2.nbcplus.na/hls/high_nbc3.m3u8
+#EXTINF:-1,GeorgiaHollywood
+https://30a-tv.com/gh.m3u8
+
+
+
+
+
+
+#EXTINF:-1,The Kick (2011)
+http://www.deadlyblogger.com/NewRelease/thekick.mp4
+#EXTINF:-1, Everything Must Go (2010)
+http://www.deadlyblogger.com/NewRelease/mustgo.mp4
+#EXTINF:-1 ,Iron Man 2 (2010)
+http://www.deadlyblogger.com/NewRelease/ironman2.mp4
+#EXTINF:-1 ,Unstoppable (2010)
+http://www.deadlyblogger.com/NewRelease/unstoppable.mp4
+#EXTINF:-1 ,The Adventures of Pinocchio (1978)
+https://archive.org/download/TheAdventuresOfPinocchio1978EnglishVersion/The%20Adventures%20of%20Pinocchio%201978%20(English%20Version).mp4
+#EXTINF:-1 ,Robin Hood (1973)
+http://www.deadlyblogger.com/NewRelease/robinhood1.mp4
+#EXTINF:-1 ,Conquest of the Planet of the Apes (1972)
+http://www.deadlyblogger.com/NewRelease/apes4.mp4
+#EXTINF:-1,Sleeping Beauty (1959)
+http://www.deadlyblogger.com/NewRelease/beauty1.mp4
+#EXTINF:-1 ,The Lion King (1994)
+http://www.deadlyblogger.com/NewRelease/lionking.mp4
+
+
+https://iptv-org.github.io/iptv/index.m3u
+https://epghub.xyz/
+https://www.apsattv.com/lg.m3u
+https://www.apsattv.com/localnow.m3u
+https://www.apsattv.com/xumo.m3u
+https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
+https://www.apsattv.com/redbox.m3u
+https://www.apsattv.com/distro.m3u
+https://www.apsattv.com/lg.m3u
+https://www.apsattv.com/xiaomi.m3u
